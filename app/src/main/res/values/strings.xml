@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="lbl_editar">Editar</string>
+    <string name="lbl_remover">Remover</string>
+    <string name="lbl_cadastrar">Cadastrar produto</string>
+    <string name="lbl_alterar">Alterar produto</string>
+    <string name="lbl_ordenarNomeCresc">Ordenar por nome cresc.</string>
+    <string name="lbl_ordenarNomeDecresc">Ordenar por nome decresc.</string>
+    <string name="lbl_ordenarValorCresc">Ordenar por valor cresc.</string>
+    <string name="lbl_ordenarValorDecresc">Ordenar por valor decresc.</string>
+    <string name="lbl_erro">Ocorreu um erro:</string>
+</resources>

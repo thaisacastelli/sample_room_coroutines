@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_ordenarNomeCresc"
+        android:title="@string/lbl_ordenarNomeCresc"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_ordenarNomeDecresc"
+        android:title="@string/lbl_ordenarNomeDecresc"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_ordenarValorCresc"
+        android:title="@string/lbl_ordenarValorCresc"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_ordenarValorDecresc"
+        android:title="@string/lbl_ordenarValorDecresc"
+        app:showAsAction="never"/>
+</menu>
